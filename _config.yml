@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu is a first-year PhD candidate at the HKUST NLP Group. His research focuses on natural language processing and machine learning."
+description              : &description "Junteng Liu is a first-year PhD candidate at the HKUST NLP Group whose research focuses on natural language processing and machine learning."
 url                      : https://torussailmakercoil.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "TorusSailmakerCoil/LJT-Homepage"
@@ -104,7 +104,6 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-  comments_provider      : # alias for provider (legacy support)
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
