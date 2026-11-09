@@ -49,7 +49,6 @@ include:
   - .htaccess
   - _pages/about.md
   - _pages/publications.html
-  - files
 
 exclude:
   - _posts
