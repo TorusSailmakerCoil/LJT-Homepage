@@ -9,10 +9,6 @@ author_profile: true
 - **Name:** Junteng Liu
 - **Current status:** First-year PhD candidate at HKUST NLP Group
 - **Research focus:** Natural language processing and machine learning
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** @junteng88716710
 
 ## Academic Background
 
@@ -40,14 +36,6 @@ author_profile: true
 - **Research Intern, Shanghai AI Lab** (June 2023–December 2023)
   - Advisor: Prof. Yu Cheng
 
-## Skills
-
-- Natural language processing
-- Machine learning
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM truthfulness and Interpretability
-
 ## Publications
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
@@ -67,6 +55,14 @@ author_profile: true
 
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations**
    - Jinghan Zhang, Shiqi Chen, Junteng Liu, and Junxian He. (2023). *NeurIPS 2023*. Co-author.
+
+## Skills
+
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
 
 ## Contact
 
